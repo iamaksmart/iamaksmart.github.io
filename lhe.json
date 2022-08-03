@@ -1,0 +1,539 @@
+{
+    "status": "0",
+    "message": "success",
+    "districts": [
+        {
+            "alert": "0",
+            "code": "CW",
+            "desc": "Central & Western",
+            "expand": "",
+            "sortorder": "1",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "A06",
+                    "desc": "Kwun Lung Lau",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "A06",
+                    "desc": "The University of Hong Kong Jockey Club",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "A07",
+                    "desc": "The Merton",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "1",
+            "code": "EA",
+            "desc": "Eastern",
+            "expand": "",
+            "sortorder": "2",
+            "subareas": [
+                {
+                    "alert": "1",
+                    "code": "C01",
+                    "desc": "Taikoo Shing",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "1",
+                    "code": "C02",
+                    "desc": "Taikoo Shing",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "1",
+                    "code": "C03",
+                    "desc": "Grand Promenade",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "SO",
+            "desc": "Southern",
+            "expand": "",
+            "sortorder": "3",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "D01",
+                    "desc": "Aberdeen Centre",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "D01",
+                    "desc": "Yue Fai Court",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "D02",
+                    "desc": "Ap Lei Chau Estate",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "WC",
+            "desc": "Wan Chai",
+            "expand": "",
+            "sortorder": "4",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "B06",
+                    "desc": "Laki Tak Tsuen",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "B12",
+                    "desc": "The Avenue",
+                    "sortorder": "2",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "KC",
+            "desc": "Kowloon City",
+            "expand": "",
+            "sortorder": "5",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "G01",
+                    "desc": "Chun Seen Mei Chuen",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "G01",
+                    "desc": "Ma Tau Wai Estate",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "G02",
+                    "desc": "Sky Tower",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "KT",
+            "desc": "Kwun Tong",
+            "expand": "",
+            "sortorder": "6",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "J01",
+                    "desc": "Grand Central",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "J01",
+                    "desc": "Tsui Ping North Estate",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "J02",
+                    "desc": "Telford Gardens",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "SSP",
+            "desc": "Sham Shui Po",
+            "expand": "",
+            "sortorder": "7",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "F04",
+                    "desc": "Shek Kip Mei Estate",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "F08",
+                    "desc": "Nam Cheong Estate",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "F09",
+                    "desc": "Wing Cheong Estate",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "YTM",
+            "desc": "Yau Tsim Mong",
+            "expand": "",
+            "sortorder": "8",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "E02",
+                    "desc": "Sorrento",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "E02",
+                    "desc": "The Arch",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "E02",
+                    "desc": "The Harbourside",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "WTS",
+            "desc": "Wong Tai Sin",
+            "expand": "",
+            "sortorder": "9",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "H01",
+                    "desc": "Lions Rise",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "H01",
+                    "desc": "Lower Wong Tai Sin (2) Estate",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "H02",
+                    "desc": "Lower Wong Tai Sin (1) Estate",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "IS",
+            "desc": "Islands",
+            "expand": "",
+            "sortorder": "10",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "T01",
+                    "desc": "Yu Tai Court",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "T02",
+                    "desc": "Mun Tung Estate",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "T02",
+                    "desc": "Yat Tung (1) Estate",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "KS",
+            "desc": "Kwai Tsing",
+            "expand": "",
+            "sortorder": "11",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "S01",
+                    "desc": "Kwai Chun Court",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "S01",
+                    "desc": "Kwai Hing Estate",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "S02",
+                    "desc": "Kwai Luen Estate",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "NO",
+            "desc": "North",
+            "expand": "",
+            "sortorder": "12",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "N01",
+                    "desc": "Regentville",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "N01",
+                    "desc": "Wing Fai Centre",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "N01",
+                    "desc": "Wing Fok Centre",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "SK",
+            "desc": "Sai Kung",
+            "expand": "",
+            "sortorder": "13",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "Q03",
+                    "desc": "Tai Po Sai",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "Q04",
+                    "desc": "The Hong Kong University of Science & Technology,
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "Q06",
+                    "desc": "Choi Ming Estate",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "ST",
+            "desc": "Sha Tin",
+            "expand": "",
+            "sortorder": "14",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "R01",
+                    "desc": "Lucky Plaza",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "R01",
+                    "desc": "Sha Tin Centre",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "R02",
+                    "desc": "Fung Wo Estate",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "TP",
+            "desc": "Tai Po",
+            "expand": "",
+            "sortorder": "15",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "P02",
+                    "desc": "Chung Nga Court",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "P02",
+                    "desc": "Fung Heng Estate",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "P03",
+                    "desc": "Tai Po Centre",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "TW",
+            "desc": "Tsuen Wan",
+            "expand": "",
+            "sortorder": "16",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "K03",
+                    "desc": "Chelsea Court",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "K03",
+                    "desc": "City Point",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "K03",
+                    "desc": "Vision City",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "TM",
+            "desc": "Tuen Mun",
+            "expand": "",
+            "sortorder": "17",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "L01",
+                    "desc": "Century Gateway",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "L01",
+                    "desc": "The Trend Plaza",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "L01",
+                    "desc": "Tuen Mun Town Plaza",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        },
+        {
+            "alert": "0",
+            "code": "YL",
+            "desc": "Yuen Long",
+            "expand": "",
+            "sortorder": "18",
+            "subareas": [
+                {
+                    "alert": "0",
+                    "code": "M03",
+                    "desc": "Grand Del Sol",
+                    "sortorder": "1",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "M04",
+                    "desc": "Sun Yuen Long Centre",
+                    "sortorder": "2",
+                    "version": ""
+                },
+                {
+                    "alert": "0",
+                    "code": "M04",
+                    "desc": "Yoho Midtown",
+                    "sortorder": "3",
+                    "version": ""
+                },
+            ]
+        }
+    ]
+}
