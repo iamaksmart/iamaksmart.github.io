@@ -36,7 +36,7 @@
             ]
         },
         {
-            "alert": "1",
+            "alert": "0",
             "code": "EA",
             "desc": "Eastern",
             "expand": "",
