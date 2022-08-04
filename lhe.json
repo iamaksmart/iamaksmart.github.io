@@ -43,7 +43,7 @@
             "sortorder": "2",
             "subareas": [
                 {
-                    "alert": "1",
+                    "alert": "0",
                     "code": "C01",
                     "desc": "Taikoo Shing",
                     "filename": "http://202.82.185.74/mbl/subareaimages/null",
@@ -51,7 +51,7 @@
                     "version": ""
                 },
                 {
-                    "alert": "1",
+                    "alert": "0",
                     "code": "C02",
                     "desc": "Taikoo Shing",
                     "filename": "http://202.82.185.74/mbl/subareaimages/null",
@@ -59,7 +59,7 @@
                     "version": ""
                 },
                 {
-                    "alert": "1",
+                    "alert": "0",
                     "code": "C03",
                     "desc": "Grand Promenade",
                     "filename": "http://202.82.185.74/mbl/subareaimages/null",
